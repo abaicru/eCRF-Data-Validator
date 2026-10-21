@@ -1,6 +1,0 @@
-patient_id,age,heart_rate,visit_date,status
-001,45,75,2023-10-01,Alive
-002,-5,80,2023-10-02,Alive
-003,60,350,2023-10-03,Alive
-004,50,65,2025-01-01,Dead
-005,999,70,2023-10-05,Unknown
