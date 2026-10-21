@@ -1,5 +1,4 @@
 # eCRF Data Validator
-#### Video Demo:  https://youtu.be/f4whvKsXkmw
 #### Description:
 
 **Project Overview**
